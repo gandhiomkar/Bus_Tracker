@@ -6,6 +6,7 @@ This is a live bus location tracker app to help passengers find a bus according 
 Currently the web app provides basic functionality.
 
 Proposed work:
+
 -New user freindly UI.
 
 -Implementing Keep alive tcp connections for better performance.
